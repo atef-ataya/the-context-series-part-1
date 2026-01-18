@@ -1,6 +1,6 @@
 # The Context Layer: Universal AI Context Pattern 🧠
 
-[![YouTube](https://img.shields.io/badge/Watch_Tutorial-YouTube-red?style=flat&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+[![YouTube](https://img.shields.io/badge/Watch_Tutorial-YouTube-red?style=flat&logo=youtube)]([(https://www.youtube.com/watch?v=oRclzIO5j_w&list=PLQog6EfhK_pLacZtSXqNp2vuPKMjZoHaF))
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > **Stop repeating yourself to AI.**
